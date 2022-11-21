@@ -1,0 +1,40 @@
+CONFIGURATION:
+qubit number : 4
+ansatz : EfficientSU2, RyRz, linear, depth=2
+optimizer : SPSA, maxiter=100
+shots : 1024
+measurement error mitigation : True
+
+----------------------
+h = 0.03162277660168379
+cbucvellktk3613u1lpg
+----------------------
+h = 0.1
+cbugs30lvap7pf91i6f0
+----------------------
+h = 0.31622776601683794
+cbugs3dlktk3613ud5g0
+----------------------
+h = 0.75
+cbugs3j1uoq3f11ao1d0
+----------------------
+h = 1.0
+cbugs3olvap7pf91i6jg
+----------------------
+h = 1.25
+cbugs3tlktk3613ud5k0
+----------------------
+h = 1.5
+cbugs431uoq3f11ao1fg
+----------------------
+h = 2.0
+cbugs48lvap7pf91i6m0
+----------------------
+h = 3.1622776601683795
+cbugs4dlktk3613ud5ng
+----------------------
+h = 10.0
+cbugs4j1uoq3f11ao1i0
+----------------------
+h = 31.622776601683793
+cbugs4j1uoq3f11ao1j0

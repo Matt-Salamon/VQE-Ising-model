@@ -1,0 +1,8 @@
+Bias field in z: 0.1
+Iterations: 1000 (unless otherwise indicated in file name)
+Tolerance: 0.00000001 (only for SLSQP and COBYLA in some cases, otherwise not set)
+Number of qubits: 4
+Ansatz: EfficientSU2(NUM_QUBITS, entanglement='linear',
+                      insert_barriers=True, su2_gates=['ry', 'rz'], reps=2)
+Shots: 1024
+IBM device: ibmq_belem
